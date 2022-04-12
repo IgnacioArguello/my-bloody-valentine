@@ -7,3 +7,19 @@ body {
     margin: 0;
 
 }
+
+.gradiente4 {
+    width: 102%;
+    height: 100%;
+    background: linear-gradient(to bottom, rgb(171, 62, 82),rgb(145, 69, 83), rgb(167, 21, 165),rgb(167, 21, 165), rgb(10, 6, 141), rgb(0, 0, 0))
+}
+
+.animacion {
+    transition: 300ms;
+
+}
+
+.animacion:hover {
+    transform: scale(1.10);
+
+}
